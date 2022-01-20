@@ -1,0 +1,1 @@
+# minaloc_system
